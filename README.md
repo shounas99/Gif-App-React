@@ -1,4 +1,24 @@
-# Gif App
+# Gif App 🖼️✨
+Gif App is a App for gifs search, using React + Vite.
+
+## Installation
+
+```bash
+npm install
+```
+## Compiles and hot-reloads for development
+
+```bash
+npm run dev
+```
+
+## Compiles and minifies for production
+
+```
+npm run build
+```
+
+Click to next link to know more about gif api [Giphy developers](https://developers.giphy.com/) .
 
 
 ### React + Vite
